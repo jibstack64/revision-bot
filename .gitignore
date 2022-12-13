@@ -1,0 +1,4 @@
+token.txt
+util/__pycache__
+logs/log-*.txt
+temp/temp-*.png
